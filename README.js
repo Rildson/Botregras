@@ -1,7 +1,4 @@
-Botregras
-=========
 
-4sharedPRO
 $(document).ready(function(){
 
 //When script loads
